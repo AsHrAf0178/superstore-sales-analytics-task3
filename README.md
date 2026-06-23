@@ -43,7 +43,7 @@ The dashboard includes:
 ## Project Files
 
 * `Superstore.csv`
-* `task3_dashboard.html`
+* `task3.ipynb`
 * `task3_dashboard_mockup.png`
 * `README.md`
 
